@@ -1,0 +1,26 @@
+COLLEGE TIMETABLE
+================
+
+Stream: ELECTRICAL
+Section: A
+
+Start Time: 09:00 AM
+Lunch Time: 01:00 PM (60 mins)
+
+TIME          | MONDAY                      | TUESDAY                     | WEDNESDAY                   | THURSDAY                    | FRIDAY                      
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+09:00 AM-09:55 AM| EMBEDDED_SYSTEM (LAB) - ELECTRONICS| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | MICROWAVE (SUBASIT_BORAH) - Room 7
+10:00 AM-10:55 AM| EMBEDDED_SYSTEM (LAB) - ELECTRONICS| FREE PERIOD                 | FREE PERIOD                 | INFORMATION_THEORY (RAMESH) - Room 6| FREE PERIOD                 
+11:00 AM-11:55 AM| EMBEDDED_SYSTEM (LAB) - ELECTRONICS| MICROWAVE (SUBASIT_BORAH) - Room 1| FREE PERIOD                 | FREE PERIOD                 | COMMUNICATION_N (CHITTOTOSH) - Room 6
+12:00 PM-12:55 PM| EMBEDDED_SYSTEM (MANAS) - Room 4| INFORMATION_THEORY (RAMESH) - Room 5| COMMUNICATION_N (CHITTOTOSH) - Room 6| EMBEDDED_SYSTEM (MANAS) - Room 8| EMBEDDED_SYSTEM (MANAS) - Room 5
+01:00 PM-02:00 PM| LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 
+02:00 PM-02:55 PM| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | MICROWAVE (LAB) - ELECTRONICS
+03:00 PM-03:55 PM| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | COMMUNICATION_N (CHITTOTOSH) - Room 5| MICROWAVE (LAB) - ELECTRONICS
+04:00 PM-04:55 PM| MICROWAVE (SUBASIT_BORAH) - Room 2| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | MICROWAVE (LAB) - ELECTRONICS
+05:00 PM-05:55 PM| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | INFORMATION_THEORY (RAMESH) - Room 4
+
+LEGEND:
+-------
+- Regular Classes: Subject (Teacher) - Room
+- Free Periods
+- Lunch Break

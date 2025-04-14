@@ -1,0 +1,36 @@
+TEACHER TIMETABLES
+============================================================
+
+TEACHER: j
+------------------------------------------------------------
+DAY            TIME                ROOM           CLASS
+------------------------------------------------------------
+MONDAY         03:00 PM-03:55 PM   Room 4         ece Sec A
+TUESDAY        09:00 AM-09:55 AM   Room 8         ece Sec A
+WEDNESDAY      09:00 AM-09:55 AM   Room 8         ece Sec A
+THURSDAY       11:00 AM-11:55 AM   Room 6         ece Sec A
+FRIDAY         11:00 AM-11:55 AM   Room 1         ece Sec A
+
+
+TEACHER: k
+------------------------------------------------------------
+DAY            TIME                ROOM           CLASS
+------------------------------------------------------------
+MONDAY         09:00 AM-09:55 AM   Room 6         ece Sec A
+TUESDAY        11:00 AM-11:55 AM   Room 7         ece Sec A
+WEDNESDAY      03:00 PM-03:55 PM   Room 10        ece Sec A
+THURSDAY       09:00 AM-09:55 AM   Room 1         ece Sec A
+FRIDAY         09:00 AM-09:55 AM   Room 3         ece Sec A
+
+
+TEACHER: l
+------------------------------------------------------------
+DAY            TIME                ROOM           CLASS
+------------------------------------------------------------
+MONDAY         12:00 PM-12:55 PM   Room 3         ece Sec A
+TUESDAY        03:00 PM-03:55 PM   Room 5         ece Sec A
+WEDNESDAY      02:00 PM-02:55 PM   Room 4         ece Sec A
+THURSDAY       02:00 PM-02:55 PM   Room 9         ece Sec A
+FRIDAY         12:00 PM-12:55 PM   Room 3         ece Sec A
+
+

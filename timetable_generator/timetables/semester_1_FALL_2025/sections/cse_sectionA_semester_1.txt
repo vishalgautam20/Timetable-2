@@ -1,0 +1,32 @@
+COLLEGE TIMETABLE
+================
+
+Semester: FALL 2025
+
+Stream: cse
+Section: A
+
+Start Time: 09:00 AM
+Lunch Time: 01:00 PM (60 mins)
+
+TIME                | MONDAY                           | TUESDAY                          | WEDNESDAY                        | THURSDAY                         | FRIDAY                           
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+09:00 AM-09:55 AM   | e (d) - Room 7                   | FREE PERIOD                      | FREE PERIOD                      | q (a) - Room 3                   | qwe_zxc_asd                      
+10:00 AM-10:55 AM   | FREE PERIOD                      | FREE PERIOD                      | FREE PERIOD                      | FREE PERIOD                      | qwe_zxc_asd                      
+11:00 AM-11:55 AM   | w (s) - Room 7                   | w (s) - Room 7                   | q (a) - Room 1                   | r (f) - Room 9                   | qwe_zxc_asd                      
+12:00 PM-12:55 PM   | FREE PERIOD                      | r (f) - Room 3                   | r (f) - Room 6                   | FREE PERIOD                      | FREE PERIOD                      
+01:00 PM-01:55 PM   | LUNCH BREAK                      | LUNCH BREAK                      | LUNCH BREAK                      | LUNCH BREAK                      | LUNCH BREAK                      
+02:00 PM-02:55 PM   | FREE PERIOD                      | e (d) - Room 3                   | FREE PERIOD                      | FREE PERIOD                      | e (d) - Room 2                   
+03:00 PM-03:55 PM   | FREE PERIOD                      | FREE PERIOD                      | FREE PERIOD                      | FREE PERIOD                      | q (a) - Room 1                   
+04:00 PM-04:55 PM   | FREE PERIOD                      | FREE PERIOD                      | FREE PERIOD                      | w (s) - Room 9                   | FREE PERIOD                      
+
+LEGEND:
+-------
+Regular Classes: Subject (Teacher) - Room
+Laboratory Sessions: Lab Name (LAB) - Room (Instructor)
+Free Periods
+Lunch Break
+
+Format: Subject (Teacher) - Room
+Lab Format: Lab Name (LAB) - Room (Instructor)
+

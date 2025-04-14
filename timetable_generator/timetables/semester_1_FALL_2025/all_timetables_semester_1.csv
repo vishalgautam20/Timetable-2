@@ -1,0 +1,41 @@
+COLLEGE TIMETABLE
+
+Semester: FALL 2025
+
+Basic Information,
+Start Time,09:00 AM
+Lunch Time,01:00 PM
+Lunch Duration,60 minutes
+
+cse - Section A
+
+Time,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,
+09:00 AM-09:55 AM,e [d] Room 7,FREE,FREE,q [a] Room 3,qwe_zxc_asd,
+10:00 AM-10:55 AM,FREE,FREE,FREE,FREE,qwe_zxc_asd,
+11:00 AM-11:55 AM,w [s] Room 7,w [s] Room 7,q [a] Room 1,r [f] Room 9,qwe_zxc_asd,
+12:00 PM-12:55 PM,FREE,r [f] Room 3,r [f] Room 6,FREE,FREE,
+01:00 PM-01:55 PM,LUNCH BREAK,LUNCH BREAK,LUNCH BREAK,LUNCH BREAK,LUNCH BREAK,
+02:00 PM-02:55 PM,FREE,e [d] Room 3,FREE,FREE,e [d] Room 2,
+03:00 PM-03:55 PM,FREE,FREE,FREE,FREE,q [a] Room 1,
+04:00 PM-04:55 PM,FREE,FREE,FREE,w [s] Room 9,FREE,
+
+
+ece - Section A
+
+Time,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,
+09:00 AM-09:55 AM,u [m] Room 1,o [k] Room 5,u [m] Room 3,iop_bnm_jkl,i [j] Room 7,
+10:00 AM-10:55 AM,i [j] Room 3,rty_cvb_fgh,FREE,iop_bnm_jkl,u [m] Room 7,
+11:00 AM-11:55 AM,FREE,rty_cvb_fgh,o [k] Room 10,iop_bnm_jkl,FREE,
+12:00 PM-12:55 PM,p [l] Room 3,rty_cvb_fgh,FREE,FREE,FREE,
+01:00 PM-01:55 PM,LUNCH BREAK,LUNCH BREAK,LUNCH BREAK,LUNCH BREAK,LUNCH BREAK,
+02:00 PM-02:55 PM,FREE,FREE,i [j] Room 3,FREE,o [k] Room 9,
+03:00 PM-03:55 PM,FREE,FREE,FREE,FREE,FREE,
+04:00 PM-04:55 PM,FREE,FREE,p [l] Room 3,FREE,p [l] Room 1,
+
+
+
+Notes:
+Format: Subject [Teacher] Room
+Laboratory Sessions: LabName_Instructor_LabCenter
+FREE: No class scheduled
+LUNCH BREAK: Lunch period

@@ -1,0 +1,10 @@
+TIMETABLE GENERATION SUMMARY
+==========================
+
+Total Semesters: 1
+
+Semester 1:
+- Term: FALL
+- Year: 2025
+- Directory: semester_1_FALL_2025
+

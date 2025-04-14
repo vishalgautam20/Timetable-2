@@ -1,0 +1,26 @@
+COLLEGE TIMETABLE
+================
+
+Stream: COMPUTER_SCIENCE
+Section: A
+
+Start Time: 09:00 AM
+Lunch Time: 01:00 PM (60 mins)
+
+TIME          | MONDAY                      | TUESDAY                     | WEDNESDAY                   | THURSDAY                    | FRIDAY                      
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+09:00 AM-09:55 AM| COMPUTER GRAPHICS (SHURU) - Room 9| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | COMPUTER GRAPHICS (SHURU) - Room 4
+10:00 AM-10:55 AM| OPTIMIZATION  (KAMLESH) - Room 9| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 
+11:00 AM-11:55 AM| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | NATURAL LANGUAGE (N.SAHARIYA) - Room 10| STATISTICAL ML (INUGANBI) - Room 4
+12:00 PM-12:55 PM| FREE PERIOD                 | STATISTICAL ML (INUGANBI) - Room 6| FREE PERIOD                 | FREE PERIOD                 | OPTIMIZATION  (KAMLESH) - Room 7
+01:00 PM-02:00 PM| LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 
+02:00 PM-02:55 PM| CYBER_SECURITY (MOTILAAL) - Room 9| NATURAL LANGUAGE (N.SAHARIYA) - Room 9| FREE PERIOD                 | CYBER_SECURITY (MOTILAAL) - Room 8| NATURAL LANGUAGE (N.SAHARIYA) - Room 10
+03:00 PM-03:55 PM| GRAPHICS (LAB) - COMPUTER CENTER| FREE PERIOD                 | FREE PERIOD                 | OPTIMIZATION  (KAMLESH) - Room 1| FREE PERIOD                 
+04:00 PM-04:55 PM| GRAPHICS (LAB) - COMPUTER CENTER| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 
+05:00 PM-05:55 PM| GRAPHICS (LAB) - COMPUTER CENTER| CYBER_SECURITY (MOTILAAL) - Room 5| COMPUTER GRAPHICS (SHURU) - Room 7| STATISTICAL ML (INUGANBI) - Room 7| FREE PERIOD                 
+
+LEGEND:
+-------
+- Regular Classes: Subject (Teacher) - Room
+- Free Periods
+- Lunch Break

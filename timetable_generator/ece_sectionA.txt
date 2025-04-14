@@ -1,0 +1,24 @@
+COLLEGE TIMETABLE
+================
+
+Stream: ece
+Section: A
+
+Start Time: 09:00 AM
+Lunch Time: 01:00 PM (60 mins)
+
+TIME          | MONDAY                      | TUESDAY                     | WEDNESDAY                   | THURSDAY                    | FRIDAY                      
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+09:00 AM-09:55 AM| o (k) - Room 6              | i (j) - Room 8              | i (j) - Room 8              | o (k) - Room 1              | o (k) - Room 3              
+10:00 AM-10:55 AM| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 
+11:00 AM-11:55 AM| FREE PERIOD                 | o (k) - Room 7              | FREE PERIOD                 | i (j) - Room 6              | i (j) - Room 1              
+12:00 PM-12:55 PM| p (l) - Room 3              | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | p (l) - Room 3              
+01:00 PM-02:00 PM| LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 
+02:00 PM-02:55 PM| FREE PERIOD                 | FREE PERIOD                 | p (l) - Room 4              | p (l) - Room 9              | FREE PERIOD                 
+03:00 PM-03:55 PM| i (j) - Room 4              | p (l) - Room 5              | o (k) - Room 10             | FREE PERIOD                 | FREE PERIOD                 
+
+LEGEND:
+-------
+- Regular Classes: Subject (Teacher) - Room
+- Free Periods
+- Lunch Break

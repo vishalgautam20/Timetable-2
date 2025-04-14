@@ -1,0 +1,22 @@
+COLLEGE TIMETABLE
+================
+
+Stream: cse
+Section: A
+
+Start Time: 09:00 AM
+Lunch Time: 01:00 PM (60 mins)
+
+TIME          | MONDAY                      | TUESDAY                     | WEDNESDAY                   | THURSDAY                    | FRIDAY                      
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+09:00 AM-09:55 AM| d (g) - Room 5              | FREE PERIOD                 | c (g) - Room 4              | FREE PERIOD                 | FREE PERIOD                 
+10:00 AM-10:55 AM| g (r) - Room 10             | g (r) - Room 9              | FREE PERIOD                 | FREE PERIOD                 | d (g) - Room 10             
+11:00 AM-11:55 AM| FREE PERIOD                 | FREE PERIOD                 | g (r) - Room 9              | FREE PERIOD                 | FREE PERIOD                 
+12:00 PM-12:55 PM| FREE PERIOD                 | c (g) - Room 4              | d (g) - Room 2              | FREE PERIOD                 | c (g) - Room 2              
+01:00 PM-02:00 PM| LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 
+
+LEGEND:
+-------
+- Regular Classes: Subject (Teacher) - Room
+- Free Periods
+- Lunch Break

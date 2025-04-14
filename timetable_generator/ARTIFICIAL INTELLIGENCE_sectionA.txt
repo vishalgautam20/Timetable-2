@@ -1,0 +1,26 @@
+COLLEGE TIMETABLE
+================
+
+Stream: ARTIFICIAL INTELLIGENCE
+Section: A
+
+Start Time: 09:00 AM
+Lunch Time: 01:00 PM (60 mins)
+
+TIME          | MONDAY                      | TUESDAY                     | WEDNESDAY                   | THURSDAY                    | FRIDAY                      
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+09:00 AM-09:55 AM| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 
+10:00 AM-10:55 AM| COMPUTER_GRAPHICS (BIDYA) - Room 7| NATURAL LANGUAGE (N.SAHARIYA) - Room 9| FREE PERIOD                 | CYBER_SECURITY (MOTILAAL) - Room 7| FREE PERIOD                 
+11:00 AM-11:55 AM| OPTIMIZATION (KAMLESH) - Room 4| FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 | FREE PERIOD                 
+12:00 PM-12:55 PM| MACHINE LEARNING (KABITA) - Room 9| CYBER_SECURITY (MOTILAAL) - Room 8| MACHINE LEARNING (KABITA) - Room 5| FREE PERIOD                 | FREE PERIOD                 
+01:00 PM-02:00 PM| LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 | LUNCH BREAK                 
+02:00 PM-02:55 PM| FREE PERIOD                 | COMPUTER_GRAPHICS (BIDYA) - Room 1| FREE PERIOD                 | NATURAL LANGUAGE (N.SAHARIYA) - Room 9| OPTIMIZATION (KAMLESH) - Room 7
+03:00 PM-03:55 PM| FREE PERIOD                 | GRAPHICS (LAB) - COMPUTER CENTER| FREE PERIOD                 | FREE PERIOD                 | COMPUTER_GRAPHICS (BIDYA) - Room 9
+04:00 PM-04:55 PM| CYBER_SECURITY (MOTILAAL) - Room 8| GRAPHICS (LAB) - COMPUTER CENTER| FREE PERIOD                 | OPTIMIZATION (KAMLESH) - Room 2| FREE PERIOD                 
+05:00 PM-05:55 PM| NATURAL LANGUAGE (N.SAHARIYA) - Room 5| GRAPHICS (LAB) - COMPUTER CENTER| FREE PERIOD                 | FREE PERIOD                 | MACHINE LEARNING (KABITA) - Room 9
+
+LEGEND:
+-------
+- Regular Classes: Subject (Teacher) - Room
+- Free Periods
+- Lunch Break
